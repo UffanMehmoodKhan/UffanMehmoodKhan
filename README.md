@@ -6,7 +6,7 @@ Software Engineering students at FAST-NUCES.
 
 Hello, World! My name is Uffan and I am a software engineering student at FAST-NUCES. My love for mathematics stumbled me into the world of computation and now I code things either purely out of amusement or because I have to complete a 3-week assignment in 12 hours.
 
-* 🧠  I'm learning C/C++, Python, Rust, Java, SQL, HTML, CSS, JavaScript, Cypress.
+* 🧠  I'm learning C/C++, Python, Rust, Java, SQL, MERN, Cypress.
 * 🤝  I'm open to collaborating on AI/ML, Web Dev, chess engines and malware detection.
 * 🌍  I'm based in Lahore, Punjab, Pakistan
 * ✉️  You can contact me at [uffanmehmoodkhan02@gmail.com](mailto:uffanmehmoodkhan02@gmail.com)
